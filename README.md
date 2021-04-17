@@ -1,2 +1,3 @@
 # my-cv
-Built my CV using HTML and CSS
+
+link to live repo https://marienoir.github.io/Projects/
